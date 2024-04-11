@@ -1,4 +1,4 @@
-<center> <h1> Machine Learning Assignment</h1> </center>
+<center> <h1> Machine Learning Project</h1> </center>
 <center> <h1> Gender Identification System using Scikit-Learn </center>
 <center> <h1> (Step-wise Tutorial)</center>
 <br>
